@@ -48,9 +48,7 @@
        - name: Deploy to GitHub Pages
          id: deployment
          uses: actions/deploy-pages@v4
-
-# FULL WORKING EXAMPLE (uncomment this entire section when you're ready):
-
+         
  name: Build & Deploy Portfolio
 
  on:
